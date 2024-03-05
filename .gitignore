@@ -1,0 +1,2 @@
+# ignorar carpeta .ipynb_checkpoints/ y su contenido
+.ipynb_checkpoints/
